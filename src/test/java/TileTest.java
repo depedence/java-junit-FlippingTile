@@ -1,5 +1,4 @@
-package org.fliptile.model;
-
+import org.fliptile.model.Tile;
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
 
